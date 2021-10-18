@@ -19,8 +19,6 @@
 <a href="https://www.linkedin.com/in/gaurav-pawar22/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ImGauravsp"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.quora.com/profile/Gaurav-Pawar-480"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/iconfinder_Quora_2613304.png"></a>&nbsp;&nbsp;
-
-
 <a href="https://www.instagram.com/gaurav.2206/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/instagram.png"></a>&nbsp;&nbsp;
 
 
