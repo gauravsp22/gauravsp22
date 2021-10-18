@@ -77,3 +77,6 @@
 <code><img height="35" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/git.png"></a>&nbsp;&nbsp;</code>
 <code><img height="35" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/github.png"></a>&nbsp;&nbsp;</code>
 
+<img src="https://github-readme-stats.vercel.app/api?username=gauravsp22&show_icons=true" width=400>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
