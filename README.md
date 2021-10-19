@@ -1,4 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi" alt="https://github.com/bhargav-joshi"> </p>
 
 <h1 align="center">Hey, Welcome to my GitHub 👨‍💻❤️ <br></h1>
 <br>
