@@ -2,8 +2,7 @@
 <h1 align="center">Hey, Welcome to my GitHub 👨‍💻❤️ <br></h1>
 <br>
 
-
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
+<img src="https://cunghoanhip.net/images/dang-ky-thanh-vien.gif" width="320px" align="left">
 <h4 align="left">Hey !!, I am Final year student (2022 Graduate) <br><br>
  College - R. C. Patel Institute of Technology, Shirpur <br><br>
  Stream - Bachelor of Technology in Computer Engineering<br><br>
