@@ -2,7 +2,6 @@
 <h1 align="center">Hey, Welcome to my GitHub 👨‍💻❤️ <br></h1>
 <br>
 
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="40px" align="right">
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
 <h4 align="left">Hey !!, I am Final year student (2022 Graduate) <br><br>
