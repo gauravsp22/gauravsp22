@@ -7,7 +7,7 @@
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
 <h4 align="left">Hey !!, I am Final year student (2022 Graduate) <br><br>
  College - R. C. Patel Institute of Technology, Shirpur <br><br>
- Stream - Bachelor of Engineering in Computer Engineering<br><br>
+ Stream - Bachelor of Technology in Computer Engineering<br><br>
  Area of Interest - Software Development · Web Development · Machine Learning · Python/C++ · System/Network<br><br><br>
  Open to work as - Software Engineer · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Community/Program Manager (Tech)
 </h4>
