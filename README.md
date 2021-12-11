@@ -7,7 +7,7 @@
  College - R. C. Patel Institute of Technology, Shirpur <br><br>
  Stream - Bachelor of Technology in Computer Engineering<br><br>
  Area of Interest - Software Development · Web Development · Machine Learning · Python/C++ · System/Network<br><br><br>
- Open to work as - Software Engineer · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Community/Program Manager (Tech)
+ Open to work as - Software Engineer · Associate · Software Developer · Analyst  · Web Developer
 </h4>
 <hr/>
 <h3 align="center"><i><b> < Connect me on Social Media > </b></i></h3>
