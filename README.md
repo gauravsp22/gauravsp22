@@ -31,8 +31,7 @@
 <p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 <h3 align="left">How to reach me:</h3>
- <a href="https://mail.google.com/mail/u/1/#sent?compose=CllgCJTKWQHBCMMVrGmldSrDvJsSlSBLbxtQhKggNhKZWSSzHjSPCHpLtkPKNTtkxZsKWxclwjV"><img height="40" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png"></a>&nbsp;&nbsp;
- - 📫 How to reach me **gauravsp897@gmail.com**
+ <a href="https://mail.google.com/mail/"><img height="40" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png"></a>&nbsp;&nbsp; 📫  **gauravsp897@gmail.com**
 
 
 
