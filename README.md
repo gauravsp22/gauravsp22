@@ -6,8 +6,8 @@
 <h4 align="left">Hey !!, I am Final year student (2022 Graduate) <br><br>
  College - R. C. Patel Institute of Technology, Shirpur <br><br>
  Stream - Bachelor of Technology in Computer Engineering<br><br>
- Area of Interest - Software Development · Web Development · Machine Learning · Python/C++ · System/Network<br><br>
- Open to work as - Software Engineer · Associate · Software Developer · Analyst  · Web Developer
+ Area of Interest - DevOps · Software Development · Web Development · Python · <br><br>
+ Open to work as - DevOps Engineer · Software Engineer · Data Engineer · 
 </h4>
 <hr/>
 <h3 align="center"><i><b> < Connect me on Social Media > </b></i></h3>
@@ -28,10 +28,13 @@
 <p align="left"> <a href="https://twitter.com/imgauravsp" target="blank"><img src="https://img.shields.io/twitter/follow/imgauravsp?logo=twitter&style=for-the-badge" alt="imgauravsp" /></a> </p>
 
 <h3 align="left">I'm Currently Learning:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+<p align="left">  
+ <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> 
+ <a href="https://kubernetes.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+ <a href="https://terraform.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" alt="terraform" width="40" height="40"
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+ 
 
 <h3 align="left">How to reach me:</h3>
  <a href="https://mail.google.com/mail/"><img height="40" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png"></a>&nbsp;&nbsp; 📫  **gauravsp897@gmail.com**
